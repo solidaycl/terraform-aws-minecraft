@@ -76,6 +76,7 @@ module "minecraft" {
 ## Authors
 
 [Darrell Davis](https://github.com/darrelldavis)
+
 [Chris Soliday](https://github.com/solidaycl)
 
 ## License
